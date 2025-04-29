@@ -1,5 +1,6 @@
 # Fluid-flow-dynamics
-#Deep Learning and Physics-Based Models 
+#Deep Learning and Physics-Based Models
+ 
 Introduction: 
 In engineering and natural sciences, fluid dynamics plays a crucial role in numerous applications. from weather modeling to aerospace design. Traditional methods of solving flurd dynamics equations are computationally expensive and time-consuming, especially when dealing with complex geometries and turbulent flows. In this project, we propose the use of deep learning models combined with physics-based data to predict the behavior of fluid flow in complex systems. This approach leverages data-driven predictions while integrating the fundamentals of fluid mechanics to enhance model accuracy and reduce computational cost 
 Objective: 
